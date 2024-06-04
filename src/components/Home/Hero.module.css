@@ -1,0 +1,31 @@
+.flex {
+    display: flex;
+    gap: 30px;
+}
+.flex > div {
+    width: 50%;
+}
+.card {
+    padding: 20px;
+    border: 1px solid #f6f7fb;
+    background: #f6f7fb;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+.card h2 {
+    font-size: 36px;
+    margin-bottom: 43px;
+    width: 362px;
+    text-wrap: balance;
+}
+.card p {
+    color: #399a3a;
+}
+.hero__slider {
+    padding: 20px ;
+}
+.hero__slider h2 {
+    font-size: 36px;
+    margin-bottom: 25px;
+    color: #fff;
+}

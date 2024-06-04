@@ -1,0 +1,81 @@
+.logo {
+    width: 99px;
+    height: 96px;
+    margin-top: 1.5rem;
+    margin-left: 6rem;
+}
+input {
+    width: 665px;
+    height: 40px;
+    font-size: 14px;
+    padding: 10px 20px;
+    border: 2px solid #399A3A
+}
+.btn {
+    width: 116px;
+    height: 40px;
+    top: 79px;
+    left: 858px;
+    background-color: #399A3A;
+    color: #fff;
+    border-radius: 0px 4px 4px 0px;
+    cursor: pointer;
+    
+}
+.search {
+    margin-left: 13.4rem;
+    margin-top: -4rem;
+}
+.icon {
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+    margin-left: 65rem;
+    margin-top: -2.5rem;
+}
+.iconHeart{
+    width: 23px;
+    height: 23px;
+}
+.textHeart{
+    font-family: Muller;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12px;  
+}
+.iconCart{
+    width: 23px;
+    height: 23px;
+}
+.textCart {
+    font-family: Muller;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12px;  
+}
+.cartSp {
+    width: 20px;
+    height: 14px;
+    position: absolute;
+    border-radius: 12px;
+    margin-top: -0.4rem;
+    margin-left: -0.4rem;
+    background-color: red;
+    color: #fff;
+    padding: 2px;
+    font-size: 12px;
+    text-align: center;
+}
+.heartSp {
+    width: 20px;
+    height: 14px;
+    position: absolute;
+    border-radius: 12px;
+    margin-top: -0.4rem;
+    margin-left: -0.4rem;
+    background-color: red;
+    color: #fff;
+    padding: 2px;
+    font-size: 12px;
+    text-align: center;
+}
